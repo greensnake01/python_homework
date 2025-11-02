@@ -32,7 +32,7 @@ Using a UNIX system and a CLI interface, to navigate in the directory use *cd* c
 cd [directory/file]
 ```
 
-To use and run the python programmes, you can either run them directly in the *python* or via a *conda* package and environment manager containing an environment with the *python* as shown:
+To use and run the Python programmes, you can either run them directly in the *Python* or via a *conda* package and environment manager containing an environment with the *Python* as shown:
 
 ```bash
 cd
