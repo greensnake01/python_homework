@@ -13,23 +13,13 @@ The main purpose of the *python_homework* directory is to save and document prog
 
 Not to get lost in the directory, see the following scheme:
 
-python_homework \*
-
-> aoc25
-> > asdas
-> > > gdsa
->
-> > data
->
-> > misc
->
-> > rosalind
-
+---------------
 python_homework \*  
 - aoc25
 - data
 - misc
 - rosalind
+
 
 \*Please, note that *.gitignore* does not track any files nor subdirectories within the **data** subdirectory.
 
