@@ -16,12 +16,21 @@ Not to get lost in the directory, see the following scheme:
 > python_homework \*
 >
 > > aoc25
+> > > asdas
+> > > > gdsa
 >
 > > data
 >
 > > misc
 >
 > > rosalind
+
+- folder
+  - subfolder
+   - file
+   - file
+- folder
+ - file
 
 \*Please, note that *.gitignore* does not track any files nor subdirectories within the **data** subdirectory.
 
