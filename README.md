@@ -2,28 +2,28 @@
 # **Greetings traveller, welcome to my *python_homework* repository!**
 
 ## Contents
-1) Directory - *python_homwork* = navigation in the *python_homework* directory
+1) Directory - *python_homework* = navigation in the *python_homework* directory
 2) Subdirectories = description of subdirectories
-3) Usage = helpful commands and instructions
+3) Usage = instructions and helpful commands
 3) License = information about the licensing
-4) Author = informatoin about the author
+4) Author = information about the author
 
-## Directory - *python_homwork*
-The main purpose of the *python_homework* directory is to save and document progress made working on projects in Python. The directory is connected to an online GitHub repository, see the following link: <https://github.com/greensnake01/python_homework>, which will be periodically updated after achieved progress. Any pull requests are welcomed and can be further discussed. 
+## Directory - *python_homework*
+The main purpose of the *python_homework* directory is to save and document progress made on projects in Python. The directory is connected to an online GitHub repository, which can be accessed here: <https://github.com/greensnake01/python_homework>. The online repository will be updated after achieved progress. Any pull requests are welcomed and can be further discussed. 
 
 Not to get lost in the directory, see the following scheme:
 
 python_homework \*
-|
-|>aoc25
-|
-|>data
-|
-|>misc
-|
-|>rosalind
 
-\*Please, note that *.gitignore* does not track any files nor subdirectories within the data subdirectory.
+\   >aoc25
+
+\   >data
+
+\   >misc
+
+\   >rosalind
+
+\*Please, note that *.gitignore* does not track any files nor subdirectories within the **data** subdirectory.
 
 ## Subdirectories
 The discription of the subdirectories will be added in the near future.
@@ -35,7 +35,7 @@ Using a UNIX system and a CLI interface, to navigate in the directory use *cd* c
 cd [directory/file]
 ```
 
-To use and run the python programmes, you can either run them directly in the *python* or via *conda* package and environment manager containing an environment with *python* as shown:
+To use and run the python programmes, you can either run them directly in the *python* or via a *conda* package and environment manager containing an environment with the *python* as shown:
 
 ```bash
 cd
@@ -60,5 +60,5 @@ Copyright 2025 greensnake01
    limitations under the License.
 
 ## Author
-The *python_homework* directory and everything within was made and provided by **greensnake01** 𓆙. For more information, see <https://ue300160.github.io/>, profile *greensnake01*.
+The *python_homework* directory and everything within was made and provided by 𓆙 **greensnake01** 𓆙. For more information, see <https://ue300160.github.io/>, and seach for a profile named *greensnake01*.
 
