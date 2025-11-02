@@ -15,13 +15,13 @@ Not to get lost in the directory, see the following scheme:
 
 python_homework \*
 
-\   >aoc25
+   \>aoc25
 
-\   >data
+   \>data
 
-\   >misc
+   \>misc
 
-\   >rosalind
+   \>rosalind
 
 \*Please, note that *.gitignore* does not track any files nor subdirectories within the **data** subdirectory.
 
