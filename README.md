@@ -28,6 +28,22 @@ python_homework \*
 ## Subdirectories
 The discription of the subdirectories will be added in the near future.
 
+## Usage
+Using a UNIX system and a CLI interface, to navigate in the directory use *cd* command with appropriate arguments as follows:
+
+```bash
+cd [directory/file]
+```
+
+To use and run the python programmes, you can either run them directly in the *python* or via *conda* package and environment manager containing an environment with *python* as shown:
+
+```bash
+cd
+conda activate [environment]
+python
+py [directory/file]
+```
+
 ## License
 Copyright 2025 greensnake01 
 
