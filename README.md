@@ -60,5 +60,5 @@ Copyright 2025 greensnake01
    limitations under the License.
 
 ## Author
-The *python_homework* directory and everything within was made and provided by **greensnake01** 𓆙.
+The *python_homework* directory and everything within was made and provided by **greensnake01** 𓆙. For more information, see <https://ue300160.github.io/>, profile *greensnake01*.
 
