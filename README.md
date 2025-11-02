@@ -19,8 +19,7 @@ python_homework \*
 - data
 - misc
 - rosalind
-
-
+---------------  
 \*Please, note that *.gitignore* does not track any files nor subdirectories within the **data** subdirectory.
 
 ## Subdirectories
