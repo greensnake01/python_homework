@@ -23,7 +23,10 @@ python_homework \*
 \*Please, note that *.gitignore* does not track any files nor subdirectories within the **data** subdirectory.
 
 ## Subdirectories
-The discription of the subdirectories will be added in the near future.
+* data > serves for learning, testing commands and sandbox scripts which have more of a personal value and are not that interesting to share
+* rosalind > serves for solutions to INI exercises
+
+The discription of other subdirectories will be added in the near future.
 
 ## Usage
 Using a UNIX system and a CLI interface, to navigate in the directory use *cd* command with appropriate arguments as follows:
