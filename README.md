@@ -20,7 +20,7 @@ python_homework \*
 - misc
 - rosalind
 ---------------  
-\*Please, note that *.gitignore* does not track any files nor subdirectories within the **data** subdirectory.
+\*Please, note that *.gitignore* does not track the **data** directory, nor any files or subdirectories within.
 
 ## Subdirectories
 * data > serves for learning, testing commands and sandbox scripts which have more of a personal value and are not that interesting to share
