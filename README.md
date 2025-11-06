@@ -40,8 +40,7 @@ To use and run the Python programmes, you can either run them directly in the *P
 ```bash
 cd
 conda activate [environment]
-python
-py [directory/file]
+python [directory/file]
 ```
 
 ## License

@@ -1,11 +1,11 @@
 # calculation of the size of a square on the hypotenuse (right-angled triangle)
 
-# sides as variables
-a = float(input('size of "a" side: ')) # size of 'a' side
-b = float(input('size of "b" side: ')) # size of 'b' side
+# input side lengths as variables
+a = int(input('size of "a" side: ')) # size of 'a' side
+b = int(input('size of "b" side: ')) # size of 'b' side
 
-# calcualtion using exponentiation
+# calcualate (using exponentiation)
 square = (a**2 + b**2)
 
-# printing the result
+# print the results (of calculation)
 print('square on the hypotenuse:', square)
