@@ -11,7 +11,7 @@ odd_list = [1, 3, 5, 7, 9]
 # create a variable with value 0
 odd_sum = 0
 
-##LOOP
+##PROGRAMME
 # for loop (from a through b, inclusively)
 for num in range(a, b + 1):
     #print(num)
