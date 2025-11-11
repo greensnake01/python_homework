@@ -16,15 +16,19 @@ Not to get lost in the directory, see the following scheme:
 ---------------
 python_homework \*  
 - aoc25
+- carpentries
 - data
 - misc
 - rosalind
+- w3schools
 ---------------  
 \*Please, note that *.gitignore* does not track the **data** directory, nor any files or subdirectories within.
 
 ## Subdirectories
 * data > serves for learning, testing commands and sandbox scripts which have more of a personal value and are not that interesting to share
 * rosalind > serves for solutions to INI exercises
+* carpentries > serves for learning and practicing of carpentry python classes, while storing helpful commands and examples
+* w3schools > serves as a cheat-sheet for storing correct answers to covered exercises
 
 The discription of other subdirectories will be added in the near future.
 
