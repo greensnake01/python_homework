@@ -17,10 +17,25 @@ Not to get lost in the directory, see the following scheme:
 python_homework \*  
 - aoc25
 - carpentries
+   - variables_assignment_2.ipynb
+   - data_types_type_conversion_3.ipynb
+   - built_in_functions_help_4.ipynb
+   - libraries_5.ipynb
+   - lists_6.ipynb
+   - dictionaries_7.ipynb
+   - for_loops_7.ipynb
 - data
 - misc
 - rosalind
+   - INI_all.ipynb
+   - INI_DNA.py
+   - INI_RNA.py
+   - INI1.py
+   - INI2.py
+   - INI3.py
+   - INI4.py
 - w3schools
+   - python_cheatsheet.ipynb
 ---------------  
 \*Please, note that *.gitignore* does not track the **data** directory, nor any files or subdirectories within.
 
