@@ -11,7 +11,7 @@ word_count = {}
 for word in s.split(): # hint: use (' ') for space or other delimiter character
     #if word exists in the dictionary, then add 1 to its value
     if word in word_count:
-        word_count[word] = word_count[word] + 1
+        word_count[word] = word_count[word] + 1 # alternatively: +=
         # alternatively
         #word_count.update({word : word_count[word] + 1})
     #if not, then create new key-value pair with a value 1
