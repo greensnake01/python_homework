@@ -1,10 +1,10 @@
 # return the hamming distance (number of mismatching nucleotide bases)
 
 ##VARIABLE
-s = 'GAGCCTACTAACGGGAT'
-#s = str(input('first DNA sequence:')
-t = 'CATCGTAATGACGGCCT'
-#t = str(input('second DNA sequence:')
+#s = 'GAGCCTACTAACGGGAT'
+s = str(input('first DNA sequence:')
+#t = 'CATCGTAATGACGGCCT'
+t = str(input('second DNA sequence:')
 d = 0
 
 ##PROGRAMME
@@ -18,5 +18,6 @@ for position in range(len(s)): # alternatively a while loop
     else:
         continue
 
-# print results
-print(d)
+# print Hamming distance
+print()
+print('Hamming distance is:' d)
