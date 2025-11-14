@@ -1,5 +1,7 @@
 data/*
 rosalind/.ipynb_checkpoints/*
 carpentries/.ipynb_checkpoints/*
+carpentries/__pycache__/*
 w3schools/.ipynb_checkpoints/*
 '~WRL0005.tmp'
+
